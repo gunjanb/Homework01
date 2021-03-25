@@ -7,12 +7,12 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* changing background color from #2a607c to #165d82 to  have a good  color contrast according to WCAG */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  background-color: #2a607c;
+  background-color: #165d82;
   color: #ffffff;
 }
 
@@ -21,8 +21,9 @@ body {
   font-size: 48px;
 }
 
+/* changing color from #d9dcd6 to #fffdfd to  have a good  color contrast according to WCAG */
 .header h1 .seo {
-  color: #d9dcd6;
+  color: #fffdfd;
 }
 
 /* changing div into nav */
@@ -79,6 +80,7 @@ p {
   margin-left: 20px;
 }
 
+/* changing background color from #2589bd to #165d82 to  have a good  color contrast according to WCAG */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,7 +89,7 @@ p {
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #2589bd;
+  background-color: #165d82;
 }
 
 /* Consolidating class selectors with same properties */
@@ -119,6 +121,8 @@ p {
 }
 
 /* Consolidating class selectors with same properties */
+/* changing background color from #0072bb to #035990 to  have a good  color contrast according to WCAG */
+
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
