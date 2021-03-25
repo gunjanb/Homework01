@@ -31,10 +31,13 @@
 
     <!-- adding main -->
     <main>
-      <div class="hero"></div>
+      <!-- adding aria-label to label an image -->
+      <div class="hero" aria-label="digital marketing meeting picture"></div>
+
       <!-- changing div to article-->
       <article class="content">
         <!-- changing div to section -->
+        <!-- adding id =#search-engine-optimization to make link in nav bar functional -->
         <section class="search-engine-optimization">
           <img
             src="./assets/images/search-engine-optimization.jpg"
@@ -115,9 +118,15 @@
     </main>
 
     <!-- changing div to footer -->
+    <!-- adding aria-label for emoji and copyright symbol -->
     <footer class="footer">
-      <h2>Made with ❤️️ by Horiseon</h2>
-      <p>&copy; 2019 Horiseon Social Solution Services, Inc.</p>
+      <h2>
+        Made with <span role="img" aria-label="Love"></span>❤️️ by Horiseon
+      </h2>
+      <p>
+        <span aria-label="Copyright">&copy;️</span> 2019 Horiseon Social
+        Solution Services, Inc.
+      </p>
     </footer>
   </body>
 </html>
