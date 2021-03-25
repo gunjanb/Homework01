@@ -93,7 +93,6 @@ p {
 }
 
 /* Consolidating class selectors with same properties */
-
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -102,7 +101,6 @@ p {
 }
 
 /* Consolidating class selectors with same properties */
-
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -111,7 +109,6 @@ p {
 }
 
 /* Consolidating class selectors with same properties */
-
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -122,7 +119,6 @@ p {
 
 /* Consolidating class selectors with same properties */
 /* changing background color from #0072bb to #035990 to  have a good  color contrast according to WCAG */
-
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
