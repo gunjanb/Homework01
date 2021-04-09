@@ -16,4 +16,4 @@ Accessibility is an important consideration for businesses.As web accessibility 
 
 ## Deployed Application
 
-[Horiseon](https://gunjanb.github.io/Homework01/)
+[Horiseon](https://gunjanb.github.io/Horiseon/)
